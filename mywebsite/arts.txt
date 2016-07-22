@@ -1,0 +1,13 @@
+<html>
+<head>
+<title><h1>ARTS</h1></title>
+</head>
+<body>
+<h2>Bharatanatyam</h2>
+<img src="images/bharatham.jpg" alt="bharatham" />
+<p>
+This is one of the oldest form of dance in India performed in the Temples and in the Courts of Kings. Relating to its religious origin, it is almost similar to the dance format compiled by Sage Bharatha Muni in his famous Natya Sasthra. Bharatha Natyam was handed down as a living tradition from one generation to another as Devadasi System. Later, the Four brothers from Thanjavur of the early 19th century Chinnaiah, Ponniah, Sivanandam and Vadivel popularly called as the Thanjavur Quartet or Nattuvanars of Pandanallur, composed numerous varnams and kritis and contributed to the Development of Bharatanatyam and Carnatic Music.
+</p>
+<h2>Bharatanatyam</h2>
+<img src="images/bharatham.jpg" alt="bharatham" />
+<p>

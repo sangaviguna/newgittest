@@ -1,0 +1,103 @@
+.container_12{
+background: white;
+}
+
+nav li { display:inline;
+  font-family: sans-serif;
+margin-left:0;
+margin-right:20px;
+margin-top:-30px;
+margin-bottom:30px;
+font-size:15px;
+color: black;
+}
+
+a:hover{
+  color:black;
+  }
+
+
+.head1 a:hover{
+  color: black;
+}
+
+header{
+font-size:40px;
+position: fixed;
+z-index: 9999;
+font-family:'dancingscript', cursive;
+font-style: oblique;;
+margin-top:0px;
+background:#FFB74D;
+color: black;
+}
+.image{
+  position: relative;
+}
+li a{
+  text-decoration: none;
+}
+.special{
+  text-align: justify;
+}
+.image .grid_12{
+  margin-left: 0px;
+width:100%;
+}
+
+.image h3{
+  position: absolute;
+  top:100px;
+  left:480px;
+  width:100%;
+  font-size: 32;
+  font-style: oblique;
+  color: #515A5A;
+}
+
+body{
+background:#FFE082;
+}
+
+.hero{
+margin-left: 0px;
+  }
+
+.foot1{
+  background:#FFB74D;
+  clear:both;
+  color:black;
+  margin-top: 20px;
+}
+aside a{
+  margin-top: 50px;
+  text-decoration: none;
+  background: white;
+}
+aside a:hover{
+  color:black;
+}
+section .continue{
+  float:right;
+text-decoration: none;
+  }
+.main{
+margin-top: 2px;
+background: white;
+}
+.sidebar{
+  margin-top: 50px;
+}
+
+.primary{
+  margin-top: 15px;
+}
+.before1{
+  background: black;
+}
+.unesco{
+  border-style: solid;
+  border-width: none;
+  background: #FFD54F;
+margin-top: 10px;
+}

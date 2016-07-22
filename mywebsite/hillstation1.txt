@@ -1,0 +1,33 @@
+<html>
+<head>
+<title><h1>HILLSTATIONS</h1></title>
+</head>
+<body>
+<h2>Ooty</h2>
+<img src="images/ooty1.jpg" alt="ooty" />
+<p>
+This is located in the Western Ghats zone at an altitude of 2240 mtrs. It is the headquarters of the Nilgiri District, where the two mountain ranges meet. Udhagamandalam , popularly called as OOTY by the tourist, is the Queen of Hill Stations. Centuries ago this was also called as Oththai-Kal [single stone] Mandu [ Mund is a name of Toda Village]. The British started calling it as Ootacamund. Coffee and Tea Plantations and trees like Conifers, Eucalyptus, Pine and Wattle dot the hill side in Udhagamandalam and its environs. Summer temperature is maximum of 25 C and a minimum of 10 C . During the Winter it is minimum 5 C and a maximum of 21 C when it is slightly warmer. This area was inhibited by the tribals called TODA long before any body could venture into this region. Curiously enough, this slice of paradise remained unknown even during the periods of the great Southern Dynasties. It was the Britons who ventured into the riches of the regions during early 1800’s. Development and modernization took after their arrival to Udhagamandalam. This was the Summer Capital of the Madras Presidency during the British Rule. Coonoor - 19Kms, Kothagiri - 31 Kms are the other smaller nearby hill stations.
+</p>
+<h2>Kodaikanal</h2>
+<img src="images/kodaikanalbig.jpg" alt="kodaikanal" />
+<p>
+Legend starts with Lieutenant Ward, an Englishman, who climbed up from the Kunnavan village of Vellagavi to Kodaikanal in 1821 for a survey of Mountain Ranges of Palani. In 1834, J.C Wroughten, the then Sub-Collector of Madras and C. R. Cotton, Member - Board of Revenue - Madras Presidency went up the hills from Devadanapatti and built a small bungalow at the head of Adukkam pass near Shenbaganur. The visit of Dr.Wite in 1836 and his observation about the Hill Station attracted Botanists to Kodaikanal. First two houses named Sunnyside and Shelton, on the South Lake Road, were built between 1844-1845 by American Missionaries. Six more such American families migrated to Kodaikanal. Exotic location at 7000 feet above the Plains brought them up here. 
+</p>
+<h2>Yercaud</h2>
+<img src="images/yearcadubig.jpg" alt="yearcad" />
+<p>
+Yercaud is situated at an altitude of 4970 feet , on the Shevaroys Hills of the Eastern Ghats, located in Salem District of Northern Tamil Nadu. Because of the abundance of Trees and that happened to be near the Lake made the locals to call this area as Yeri â€“ Kaadu meaning Lake Forest. Later on the name turned out to be YERCAUD and it is also called as Jewel of the South. Yercaud Taluk spreads in an about 382.67 Sq.km area which includes the Reserve Forest also. While rest of this region, including the predominantly short and rocky hills of the Eastern Ghats welcomes all with its cool climate. The temperature never rises above 290 and does not drop down below 130 degrees. Yercaud is less expensive than either Udhagamandalam or Kodaikanal. 
+</p>
+<h2>Yelagiri</h2>
+<img src="images/elagiri.jpg" alt="yelagiri" />
+<p>
+Yelagiri Hill is at an 1410 meters altitude, and one of the most popular hill stations of Tamil Nadu. Situated amidst four mountains well known for its salubrious climate prevailing throughout the year. Tribal people live in villages of these hills. Human settlement started around 200 years ago.Travel by the winding Ghat road that has 14 hairpin bends, you can reach the Yelagiri hilltop. The ride offers panoramic breath taking views of the hills and its surroundings. The seventh bend is significant, since it offer the view of the slopes of the mountain and the green forests . The highest point in Yelgiri is the Swamimalai Hill, standing tall at 4,338 ft and a popular destination for trekkers. 
+</p>
+<blockquote>
+<p>
+"hi"</p>
+</blockquote>
+</body>
+</html>
+
+

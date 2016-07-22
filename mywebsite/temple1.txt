@@ -1,0 +1,28 @@
+<html>
+<head>
+<title><h1>TEMPLES</h1></title>
+</head>
+<body>
+<h2>Murugan Temple</h2>
+<img src="images/murugan.jpg" alt="murugan" />
+<p>
+Lord Murugan is known and worshiped by several other names like Murugan, Skandan, Kartikeyan, Subramanyan, Sengalvarayan, Swaminathan and so on. Kaumaram is one of the divine religion identified by Adi Sankaa. He is also a Valiant Warrior incarnated to cleanse the world from the atrocities of the Demons.Apart from the Six Special Abodes of Lord Murugan Thirparankundram, Tiruchendur, Palani, Swamimalai, Thiruthani and Pazhamudhircholai called the Arupadai Veedu , the State has many important temples dedicated to Lord Murugan. They speak of the rich Religious, Cultural and Architectural heritage of the land. Over the years, the sculptural skills of the craftsmen have reflection in these temples.
+</p>
+<h2>Madurai</h2>
+<img src="images/alagar.jpg" alt="alagar" />
+<p>
+The Meenakshi Temple is the elegant twin temple of Sundareswarar and Meenakshi and the life of Madurai City revolves around this temple. The construction process of the temple began 2000 years ago. Contributions from different rulers and special contribution from Thirmalai Naicker, made this complex to extend by leaps and bounds over an area of 65000 sq.m and people rightly call this temple complex as a City of its own. Four Nine tier Gopurams, One Seven tier Chittirai gopuram, Five numbers of Five Tier Gopurams, Two Three Tier Gopurams and Two Golden Gopurams are the majestic towers of the temple. Because Golden Lotus for Indira’s Puja blossomed in the tank inside the temple, it is called as Golden Lotus Tank [Pon Thamarai Kulam]. The Hall of Thousand Pillar of the Thirumalai Naicker period is called as Ayiram kaal Mandapam in Tamil.
+</p>
+<h2>Thanjavur</h2>
+<img src="images/thanjavur.jpg" alt="thanjavur" />
+<p>
+Historically speaking , The temples of Thanjavur are not as old or ancient as the temples of 108 Divya Desams or the 274 Saivaite Temples established and glorified by Alwars and Nayanmars respectively, between 7th and 9th Century. But they are majestic monuments of the past glory of the Chola Regime and famous for its excellent Architecture and Sculptural work. Thanjavur and the adjoining areas of Kumbakonam and Nagapattinam boasts of hundreds of important and ancient temples. Cholas, Pandiyas, Nayaks and the Marathas have contributed their might for making these areas to be called as Treasure House of Temples. 
+</p>
+<h2>Velankanni</h2>
+<img src="images/velankanni-c.jpg" alt="velankanni" />
+<p>
+Velankanni is 12 kms from Nagapattinam. Most important and revered Christian Pilgrim Center of the State. It is dedicated to ‘Our Lady of Health’ and popularly known as ‘ Sacred Arogya Matha Church’.  Devotees believe Virgin Mary has miraculous healing Powers. Pilgrims of all faiths and religion come to this church to get the blessings of Our Lady of Health. The Church has an imposing façade with Tall Spires and the wings present the shape of a cross. The Legend goes like this: It is believed that Virgin Mary appeared before a shepherd and asked Milk to feed Infant Jesus. Since then the milk pitcher of this sphepherd never dried and kept filling with fresh milk always. Later at the end of 16th Century Virgin Lady appeared and cured a Lame Boy. It is after this miracle the Church was constructed. 
+</p>
+
+</body>
+</html>
