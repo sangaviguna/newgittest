@@ -1,0 +1,152 @@
+.container_12{
+background: white;
+}
+
+nav li { display:inline;
+  font-family: sans-serif;
+margin-left:0;
+margin-right:20px;
+margin-top:-30px;
+margin-bottom:30px;
+font-size:15px;
+color: black;
+}
+
+a:hover{
+  color:black;
+  }
+
+
+.head1 a:hover{
+  color: black;
+}
+
+header{
+font-size:40px;
+position: fixed;
+z-index: 9999;
+font-family:'dancingscript', cursive;
+font-style: oblique;;
+margin-top:0px;
+background:#00B8D4;
+color: black;
+}
+.image img{
+  width:100%;
+  height:700px;
+}
+.image{
+    position: relative;
+}
+.good-img img{
+  width:250px;
+  height:200px;
+}
+.good-img1 img{
+  width:297px;
+  height:200px;
+}
+.good-img11 ul{
+  margin-top: 15px;
+}
+.dest1 img{
+  width:250;
+  height:200;
+}
+.dest1{
+  margin-top: 15px;
+}
+li a{
+  text-decoration: none;
+}
+.special{
+  text-align: justify;
+}
+.image .grid_12{
+  margin-left: 0px;
+width:100%;
+}
+
+.image h3{
+  position: absolute;
+  top:140px;
+  left:480px;
+  width:100%;
+  font-size: 32;
+  font-style: oblique;
+  color: #515A5A;
+}
+
+body{
+background:#84FFFF;
+}
+
+.hero{
+margin-left: 0px;
+  }
+
+.foot1{
+background:#00B8D4;
+  clear:both;
+  color:black;
+  margin-top: 20px;
+  font-family:'dancingscript', cursive;
+}
+aside a{
+  margin-top: 50px;
+  text-decoration: none;
+  background: white;
+  font-family:'dancingscript', cursive;
+}
+aside a:hover{
+  color:red;
+}
+a{
+  color:black;
+}
+.head1 a:hover{
+  color:red;
+}
+section a:hover{
+  color:red;
+}
+footer a:hover{
+  color:red;
+}
+section .continue{
+  float:right;
+text-decoration: none;
+  }
+.main{
+margin-top: 2px;
+background: white;
+}
+.sidebar li{
+  margin-top: 15px;
+  margin-left: 20px;
+}
+.sidebar h2{
+  margin-top: 25px;
+}
+.list-order li{
+  margin-top: 5px;
+  margin-left: 30px;
+}
+.list-order1 li{
+  margin-top: 5px;
+  margin-left: 30px;
+}
+
+.primary{
+  margin-top: 15px;
+}
+.before1{
+  background: black;
+}
+.unesco{
+  border-style: solid;
+  border-width: none;
+  background: #00B0FF;
+margin-top: 10px;
+font-family:'dancingscript', cursive;
+}
